@@ -4,7 +4,7 @@
 
 Aqui como desafio está registrado o meu progresso no BootCamp
 
-## Tecnologias abordadas no bootcamp
+## Assuntos e tecnologias abordadas no bootcamp
 
 - Lógica de programação
 
@@ -33,3 +33,15 @@ Aqui como desafio está registrado o meu progresso no BootCamp
 - Debugging
 
 - Spring Framework com Spring Boot
+
+## Desafios de Projetos
+
+- [Git e Github](https://github.com/rodolfoHOk/dio.desafio-git-github)
+
+- [Dino Game](https://github.com/rodolfoHOk/dio.dino-game)
+
+- [E-commerce Bookstore](https://github.com/rodolfoHOk/dio.bookstore-angular-front)
+
+- [Banco Digital](https://github.com/rodolfoHOk/dio.java-banco-digital)
+
+- 
