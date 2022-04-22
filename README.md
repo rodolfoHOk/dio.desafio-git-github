@@ -24,7 +24,7 @@ Aqui como desafio está registrado o meu progresso no BootCamp
 
 - Typescript
 
-- Angular 8
+- Angular 8+
 
 - SQL Server
 
@@ -32,13 +32,15 @@ Aqui como desafio está registrado o meu progresso no BootCamp
 
 - Debugging
 
-- Spring Framework com Spring Boot
+- Spring Framework e Spring Boot
 
 ## Desafios de Projetos
 
 - [Git e Github](https://github.com/rodolfoHOk/dio.desafio-git-github)
 
 - [Dino Game](https://github.com/rodolfoHOk/dio.dino-game)
+
+- [Desafio Angular](https://github.com/rodolfoHOk/dio.desafio-angular)
 
 - [E-commerce Bookstore](https://github.com/rodolfoHOk/dio.bookstore-angular-front)
 
